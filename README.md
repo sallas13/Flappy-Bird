@@ -1,0 +1,1 @@
+No terminal digite ./run e se divirta-se.
